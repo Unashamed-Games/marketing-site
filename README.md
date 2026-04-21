@@ -1,8 +1,4 @@
-# Unashamed Games
-
-Simple games. Built well.
-
----
+![Unashamed Games](logo.png "#Unashamed Games")
 
 ## What We’re Building
 
