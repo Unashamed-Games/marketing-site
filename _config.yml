@@ -1,0 +1,10 @@
+title: Unashamed Games
+description: >-
+  Unashamed Games builds wholesome iOS games that are free to play,
+  with limited ads and an option for an ad-free experience.
+url: https://unashamedgames.com
+baseurl: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

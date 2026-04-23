@@ -1,26 +1,35 @@
+---
+layout: default
+title: Privacy Policy — Unashamed Games
+description: >-
+  Privacy policy for Unashamed Games apps.
+---
+
 # Privacy Policy
 
 **Effective Date:** April 21, 2026
 
-Unashamed Games (“we,” “our,” or “us”) operates mobile applications and services (the “Service”).
+Unashamed Games ("we," "our," or "us") builds and operates mobile apps.
 
-This Privacy Policy explains how we handle information when you use our apps.
+This policy explains what data our apps collect and how we use it.
 
 ---
 
 ## Information We Collect
 
-We do not collect personally identifiable information from users of our apps unless explicitly provided.
+We collect limited data to run and improve our apps.
 
-### Information Collected Automatically
+We do not collect directly identifying information (such as your name or email) unless you provide it to us.
 
-Depending on how you use the Service, certain information may be collected automatically, including:
+### Automatic Collection
+
+Our apps may automatically collect:
 
 - Device type and operating system
 - App usage data (such as interactions and session length)
 - Basic diagnostic and crash data
 
-This information is used to improve app performance and stability.
+This data helps us fix bugs and improve performance.
 
 ---
 
@@ -28,7 +37,9 @@ This information is used to improve app performance and stability.
 
 Our apps may display third-party advertisements.
 
-Advertising partners (such as Google AdMob) may collect and use data to provide personalized or non-personalized ads, including:
+We only use non-personalized ads.
+
+Advertising partners (such as Google AdMob) may process limited data for ad delivery and measurement, including:
 
 - Device identifiers
 - Approximate location (non-precise)
@@ -37,19 +48,18 @@ Advertising partners (such as Google AdMob) may collect and use data to provide 
 You can learn more about how Google uses data here:  
 https://policies.google.com/technologies/ads
 
-You may be able to opt out of personalized advertising through your device settings.
+You can manage ad and privacy settings through your device settings.
 
 ---
 
 ## Data Sharing
 
-We do not sell, trade, or rent your personal information.
+We don't sell, trade, or rent your personal information.
 
-We may share limited data with third-party service providers solely to:
-
-- Operate and maintain the Service
-- Deliver advertisements
-- Analyze app performance
+We share limited data with third-party providers only to:
+- Keep our apps running
+- Show ads
+- Track app performance
 
 ---
 
@@ -63,9 +73,7 @@ We do not knowingly collect personal information from children. If we become awa
 
 ## Data Security
 
-We take reasonable measures to protect the information we collect and maintain.
-
-However, no method of transmission or storage is completely secure.
+We take reasonable steps to protect collected data, but no system is 100% secure.
 
 ---
 
@@ -80,9 +88,7 @@ You can limit data collection by:
 
 ## Changes to This Policy
 
-We may update this Privacy Policy from time to time.
-
-Any changes will be posted on this page with an updated effective date.
+We may update this policy. Changes will be posted here with an updated date.
 
 ---
 
