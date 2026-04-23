@@ -11,13 +11,13 @@ description: >-
 
 Unashamed Games ("we," "our," or "us") builds and operates mobile apps.
 
-This policy explains what data our apps collect and how we use it.
+This Privacy Policy explains what data our apps collect and how that data is used.
 
 ---
 
 ## Information We Collect
 
-We collect limited data to run and improve our apps.
+We collect limited data to operate and improve our apps.
 
 We do not collect directly identifying information (such as your name or email) unless you provide it to us.
 
@@ -29,7 +29,7 @@ Our apps may automatically collect:
 - App usage data (such as interactions and session length)
 - Basic diagnostic and crash data
 
-This data helps us fix bugs and improve performance.
+This data is used to improve app performance, stability, and reliability.
 
 ---
 
@@ -54,12 +54,12 @@ You can manage ad and privacy settings through your device settings.
 
 ## Data Sharing
 
-We don't sell, trade, or rent your personal information.
+We do not sell, trade, or rent your personal information.
 
-We share limited data with third-party providers only to:
-- Keep our apps running
-- Show ads
-- Track app performance
+We share limited data with third-party providers only for the following purposes:
+- Operate and maintain our apps
+- Serve advertisements
+- Measure app performance
 
 ---
 
@@ -73,7 +73,7 @@ We do not knowingly collect personal information from children. If we become awa
 
 ## Data Security
 
-We take reasonable steps to protect collected data, but no system is 100% secure.
+We take reasonable steps to protect collected data. However, no method of transmission or storage is completely secure.
 
 ---
 
@@ -88,7 +88,7 @@ You can limit data collection by:
 
 ## Changes to This Policy
 
-We may update this policy. Changes will be posted here with an updated date.
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
 
 ---
 

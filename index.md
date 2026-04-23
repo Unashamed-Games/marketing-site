@@ -72,7 +72,7 @@ Our first titles are in development. More details coming soon.
 
 ## Privacy
 
-We use limited data to run the app and serve non-personalized ads. We do not sell your personal information.
+We process limited data to operate the app and serve non-personalized ads. We do not sell personal information.
 
 [Read our full privacy policy →](privacy)
 
