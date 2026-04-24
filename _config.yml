@@ -8,3 +8,5 @@ baseurl: ""
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+google_analytics_id: G-7MTF8FSV4X
