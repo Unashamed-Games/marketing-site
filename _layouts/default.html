@@ -15,10 +15,13 @@
 </head>
 <body>
   {{ content }}
-  {% if jekyll.environment == "production" and site.google_analytics_id %}
-    <footer class="site-footer">
+  <footer class="site-footer">
+    <p>&copy; 2026 Unashamed Games. All rights reserved.</p>
+    {% if jekyll.environment == "production" and site.google_analytics_id %}
       <a id="cookie-settings-link" href="#">Cookie settings</a>
-    </footer>
+    {% endif %}
+  </footer>
+  {% if jekyll.environment == "production" and site.google_analytics_id %}
     <section id="consent-banner" class="consent-banner" role="dialog" aria-live="polite" aria-label="Cookie consent" hidden>
       <p>We use anonymous analytics to understand traffic and improve the site. You can accept or decline analytics cookies. See our <a href="{{ '/privacy' | relative_url }}">Privacy Policy</a>.</p>
       <div class="consent-actions">
