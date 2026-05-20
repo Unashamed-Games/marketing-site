@@ -16,6 +16,59 @@ a {
   color: #0366d6;
 }
 
+.app-cta {
+  margin: 1rem 0 1.5rem;
+  padding: 1rem;
+  border: 1px solid #c7d2fe;
+  border-radius: 12px;
+  background: linear-gradient(180deg, #f8faff 0%, #eef4ff 100%);
+}
+
+.app-cta-link {
+  display: inline-block;
+  background: #0b63ce;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 700;
+  padding: 0.7rem 1rem;
+  border-radius: 999px;
+}
+
+.app-cta-link:hover,
+.app-cta-link:focus-visible {
+  background: #084fa5;
+}
+
+.app-cta-note {
+  margin: 0.75rem 0 0;
+  font-size: 0.95rem;
+  color: #384152;
+}
+
+.screenshots-grid {
+  display: grid;
+  gap: 0.8rem;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.screenshot-slot {
+  padding: 0.9rem;
+  border: 1px dashed #9ca3af;
+  border-radius: 10px;
+  background: #fafafa;
+}
+
+.screenshot-slot h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
+}
+
+.screenshot-slot p {
+  margin: 0;
+  color: #4b5563;
+  font-size: 0.92rem;
+}
+
 .consent-banner {
   position: fixed;
   left: 1rem;
