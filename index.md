@@ -2,8 +2,9 @@
 layout: default
 title: Unashamed Games — Wholesome iOS Games
 description: >-
-  Play Tic-Tac-Toe, Checkers, Solitaire, Sudoku, and more in one simple
-  iOS app from Unashamed Games.
+  Unashamed Games is a wholesome iOS app with classic games like
+  Tic-Tac-Toe, Checkers, Solitaire, and Sudoku. Free to play with
+  limited respectful ads and an option to remove ads.
 ---
 
 <div class="landing" aria-label="Unashamed Games app landing page">

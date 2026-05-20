@@ -1,9 +1,14 @@
 title: Unashamed Games
 description: >-
-  Unashamed Games builds wholesome iOS games that are free to play,
-  with limited ads and an option for an ad-free experience.
+  Unashamed Games is a wholesome iOS app with classic games like
+  Tic-Tac-Toe, Checkers, Solitaire, and Sudoku. Free to play with
+  limited respectful ads and an option to remove ads.
 url: https://unashamedgames.com
 baseurl: ""
+logo: /logo.png
+
+social:
+  name: Unashamed Games
 
 plugins:
   - jekyll-seo-tag
