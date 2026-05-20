@@ -1,33 +1,32 @@
 ---
 layout: default
-title: Support - Unashamed Games
-description: >-
-  Support contact and help information for Unashamed Games apps.
+title: Support — Unashamed Games
+description: Get support for Unashamed Games iOS apps.
 ---
 
 # Support
 
 Need help with Unashamed Games?
 
-Email us at [support@unashamedgames.com](mailto:support@unashamedgames.com) and include:
+Email us at [support@unashamedgames.com](mailto:support@unashamedgames.com).
 
-- The game you are using
-- Your device model and iOS version
-- A short description of the issue
-- Steps to reproduce, if possible
+Please include:
+- The game you were playing
+- Your device model
+- Your iOS version
+- A brief description of the issue
+- Screenshots, if helpful
 
-## Common Help Topics
+## Common Questions
 
-- Gameplay questions and how-to guidance
-- Bug reports and unexpected behavior
-- Ad experience feedback
-- Account, privacy, or data questions
+### How do I remove ads?
 
-## Response Time
+Open the app settings and choose Remove Ads.
 
-We aim to respond as quickly as possible, typically within 2-3 business days.
+### Are the games appropriate for kids?
 
-## Other Contacts
+Unashamed Games is designed to be wholesome and appropriate for all ages.
 
-- General: [contact@unashamedgames.com](mailto:contact@unashamedgames.com)
-- Privacy: [privacy@unashamedgames.com](mailto:privacy@unashamedgames.com)
+### Do you collect personal information?
+
+See our [Privacy Policy](privacy).
