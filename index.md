@@ -74,7 +74,7 @@ A game site without screenshots feels unfinished, so this section is ready for l
 
 ## Get in Touch
 
-- General: hello@unashamedgames.com  
+- General: contact@unashamedgames.com  
 - Support: support@unashamedgames.com  
 - Privacy: privacy@unashamedgames.com  
 

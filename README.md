@@ -14,7 +14,7 @@ Unashamed Games is a small studio building polished iOS games that reflect the t
 
 ## Contact
 
-- General: hello@unashamedgames.com
+- General: contact@unashamedgames.com
 - Support: support@unashamedgames.com
 - Privacy: privacy@unashamedgames.com
 
