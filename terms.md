@@ -2,7 +2,7 @@
 layout: default
 title: Terms of Use - Unashamed Games
 description: >-
-  Terms of use for Unashamed Games websites and apps.
+  Lightweight terms for using Unashamed Games apps and website.
 ---
 
 # Terms of Use
@@ -13,39 +13,48 @@ These Terms of Use ("Terms") govern your use of Unashamed Games websites and mob
 
 By accessing or using our website or apps, you agree to these Terms.
 
-## Use of Our Services
+## Use of the App
 
-You may use our services only in compliance with applicable laws and these Terms.
+You may use our apps and site only in compliance with applicable laws and these Terms.
 
 You agree not to:
 
 - Interfere with or disrupt our services
 - Attempt unauthorized access to systems or data
-- Use our services for unlawful or abusive activity
+- Use our services for unlawful, abusive, or harmful activity
 
-## Intellectual Property
+## In-App Purchases
 
-All content, branding, game assets, and software provided by Unashamed Games are owned by or licensed to us and protected by applicable intellectual property laws.
+Our app may offer an optional in-app purchase to remove ads.
 
-## Availability and Changes
+All purchases, billing, refunds, and subscription management (if applicable in the future) are handled by Apple through your App Store account and are subject to Apple's terms and policies.
 
-We may update, modify, suspend, or discontinue parts of our services at any time.
+## Service Availability
 
-## Disclaimers
+We aim to provide a stable experience, but we do not guarantee uninterrupted or error-free service. Features may change, and parts of the app or site may be updated, limited, or discontinued at any time.
 
-Our services are provided on an "as is" and "as available" basis without warranties of any kind, to the extent permitted by law.
+## Third-Party Services
 
-## Limitation of Liability
+Our app may rely on third-party services, including:
 
-To the fullest extent permitted by law, Unashamed Games is not liable for indirect, incidental, special, consequential, or punitive damages arising from your use of our services.
+- Google AdMob (for ads)
+- Apple Game Center (for platform features)
+
+These services operate under their own terms and privacy practices.
 
 ## Privacy
 
-Please review our [Privacy Policy](privacy), which also governs aspects of your use of our services.
+Please review our [Privacy Policy](privacy), which explains how data may be collected and used.
 
 ## Changes to These Terms
 
 We may revise these Terms from time to time. Updated Terms will be posted on this page with a revised effective date.
+
+## Governing Terms
+
+These Terms are intended to be simple and practical. By using our services, you agree that these Terms govern your use of the app and website.
+
+To the extent allowed by law, these Terms are governed by applicable laws in the United States.
 
 ## Contact
 

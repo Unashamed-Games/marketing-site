@@ -17,6 +17,13 @@
   {{ content }}
   <footer class="site-footer">
     <p>&copy; 2026 Unashamed Games. All rights reserved.</p>
+    <p>
+      <a href="{{ '/privacy' | relative_url }}">Privacy</a>
+      |
+      <a href="{{ '/terms' | relative_url }}">Terms</a>
+      |
+      <a href="{{ '/support' | relative_url }}">Support</a>
+    </p>
     {% if jekyll.environment == "production" and site.google_analytics_id %}
       <a id="cookie-settings-link" href="#">Cookie settings</a>
     {% endif %}
