@@ -1,23 +1,23 @@
-![Unashamed Games logo](logo.png)
+# Unashamed Games Marketing Site
 
-# Unashamed Games
+Public marketing and policy site for Unashamed Games.
 
-Wholesome iOS games, free to play, built with conviction.
+## Purpose
 
-**Website:** [unashamedgames.com](https://unashamedgames.com)
+This site supports:
+- App Store privacy and support requirements
+- Public brand presence
+- App download conversion
+- User support and contact routing
+- Search discoverability
 
----
+## Brand Position
 
-## About
+Unashamed Games creates wholesome, polished iOS games that are free to play, supported by limited respectful ads, and built with conviction.
 
-Unashamed Games is a small studio building polished iOS games that reflect the truth of the Gospel of Jesus Christ.
+## Key Pages
 
-## Contact
-
-- General: contact@unashamedgames.com
-- Support: support@unashamedgames.com
-- Privacy: privacy@unashamedgames.com
-
-## Privacy
-
-[Read our privacy policy](https://unashamedgames.com/privacy)
+- `/` - Home / app landing page
+- `/privacy` - Privacy policy
+- `/support` - Support page
+- `/terms` - Terms of use, if needed
