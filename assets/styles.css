@@ -124,8 +124,8 @@ p {
 .hero {
   position: relative;
   overflow: hidden;
-  color: var(--bone);
-  background: linear-gradient(165deg, #1D1D1D 0%, var(--stone) 65%);
+  color: var(--ink);
+  background: linear-gradient(165deg, rgba(255, 255, 255, 0.96) 0%, var(--bone) 100%);
 }
 
 .hero::after {
@@ -164,7 +164,7 @@ p {
 
 .hero-lede {
   max-width: 58ch;
-  color: rgba(245, 242, 236, 0.94);
+  color: var(--muted);
   font-size: 1.04rem;
 }
 
