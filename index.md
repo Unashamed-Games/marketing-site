@@ -10,7 +10,7 @@ description: >-
 <div class="landing" aria-label="Unashamed Games app landing page">
   <section class="hero" aria-label="Hero section">
     <div class="hero-brand" aria-label="Unashamed Games logo lockup">
-      <img class="hero-wordmark" src="{{ '/logo.png' | relative_url }}" alt="Unashamed Games">
+      <img class="hero-wordmark" src="{{ '/assets/brand/logo.png' | relative_url }}" alt="Unashamed Games">
     </div>
     <p class="hero-kicker">Coming soon on iPhone and iPad</p>
     <h1>Classic games with a wholesome edge.</h1>
