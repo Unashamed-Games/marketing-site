@@ -9,16 +9,9 @@ description: >-
 
 <div class="landing" aria-label="Unashamed Games app landing page">
   <section class="hero" aria-label="Hero section">
-    <div class="hero-brand" aria-label="Unashamed Games logo lockup">
-      <img class="hero-wordmark" src="{{ '/assets/brand/logo.png' | relative_url }}" alt="Unashamed Games">
-    </div>
-    <p class="hero-kicker">Coming soon on iPhone and iPad</p>
+    <p class="hero-kicker">Coming soon !</p>
     <h1>Classic games with a wholesome edge.</h1>
     <p class="hero-lede">Play Tic-Tac-Toe, Checkers, Solitaire, Sudoku, and more in one thoughtfully designed app.</p>
-    <div class="hero-actions">
-      <a class="button button-primary" href="mailto:contact@unashamedgames.com?subject=Unashamed%20Games%20Launch%20Updates">Follow the launch</a>
-      <a class="button button-subtle" href="{{ '/privacy' | relative_url }}">Privacy at a glance</a>
-    </div>
   </section>
 
   <section aria-label="Games included at launch">
@@ -40,6 +33,10 @@ description: >-
         <h3>Sudoku</h3>
         <p>Number puzzles with a simple interface and relaxed pace.</p>
       </article>
+      <article class="game-card" role="listitem">
+        <h3>Word Search</h3>
+        <p>Find all the hidden words.</p>
+      </article>
     </div>
   </section>
 
@@ -59,9 +56,4 @@ description: >-
     </div>
   </section>
 
-  <section class="cta-panel" aria-label="Primary call to action">
-    <h2>Be first to know when we launch</h2>
-    <p>Join launch updates and get the App Store link as soon as it is live.</p>
-    <a class="button button-primary" href="mailto:contact@unashamedgames.com?subject=Send%20me%20the%20App%20Store%20link">Get launch updates</a>
-  </section>
 </div>
