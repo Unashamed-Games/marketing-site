@@ -84,7 +84,10 @@ p {
 }
 
 .site-brand-wordmark {
-  width: min(72vw, 500px);
+  display: block;
+  width: clamp(220px, 64vw, 500px);
+  max-width: 100%;
+  height: auto;
 }
 
 .site-main {
@@ -353,7 +356,7 @@ p {
   }
 
   .site-brand-wordmark {
-    width: 280px;
+    width: clamp(360px, 50vw, 560px);
   }
 
   .site-main {
