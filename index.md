@@ -40,18 +40,20 @@ description: >-
     </div>
   </section>
 
-  <section aria-label="Future screenshot preview">
-    <h2>Screenshot preview</h2>
-    <p>Final App Store screenshots will be added here before launch.</p>
-    <div class="screenshot-row" role="list" aria-label="Upcoming app screenshots">
+  <section aria-label="Screenshots">
+    <h2>Screenshots</h2>
+    <div class="screenshot-row" role="list" aria-label="App screenshots">
       <div class="screenshot-slot" role="listitem">
+        <img src="/assets/screenshots/Welcome-Screen.png" />
         <h3>Welcome and game selection</h3>
       </div>
       <div class="screenshot-slot" role="listitem">
-        <h3>Live gameplay</h3>
+        <img src="/assets/screenshots/Sudoku-Gameplay.png" />
+        <h3>Sudoku</h3>
       </div>
       <div class="screenshot-slot" role="listitem">
-        <h3>Settings and preferences</h3>
+        <img src="/assets/screenshots/Solitaire-Gameplay.png" />
+        <h3>Solitaire</h3>
       </div>
     </div>
   </section>
