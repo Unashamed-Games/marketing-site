@@ -20,18 +20,22 @@ description: >-
       <article class="game-card" role="listitem">
         <h3>Tic-Tac-Toe</h3>
         <p>Fast rounds and clean visuals that are easy to pick up anytime.</p>
+        <img src="/assets/screenshots/TicTacToe-Gameplay.png" />
       </article>
       <article class="game-card" role="listitem">
         <h3>Checkers</h3>
         <p>Familiar board play with polished controls and smooth game flow.</p>
+        <img src="/assets/screenshots/Checkers-Gameplay.png" />
       </article>
       <article class="game-card" role="listitem">
         <h3>Solitaire</h3>
         <p>A classic card game experience built for focus and quick restarts.</p>
+        <img src="/assets/screenshots/Solitaire-Gameplay.png" />
       </article>
       <article class="game-card" role="listitem">
         <h3>Sudoku</h3>
         <p>Number puzzles with a simple interface and relaxed pace.</p>
+        <img src="/assets/screenshots/Sudoku-Gameplay.png" />
       </article>
       <article class="game-card" role="listitem">
         <h3>Word Search</h3>
@@ -39,23 +43,4 @@ description: >-
       </article>
     </div>
   </section>
-
-  <section aria-label="Screenshots">
-    <h2>Screenshots</h2>
-    <div class="screenshot-row" role="list" aria-label="App screenshots">
-      <div class="screenshot-slot" role="listitem">
-        <img src="/assets/screenshots/Welcome-Screen.png" />
-        <h3>Welcome and game selection</h3>
-      </div>
-      <div class="screenshot-slot" role="listitem">
-        <img src="/assets/screenshots/Sudoku-Gameplay.png" />
-        <h3>Sudoku</h3>
-      </div>
-      <div class="screenshot-slot" role="listitem">
-        <img src="/assets/screenshots/Solitaire-Gameplay.png" />
-        <h3>Solitaire</h3>
-      </div>
-    </div>
-  </section>
-
 </div>
