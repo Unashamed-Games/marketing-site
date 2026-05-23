@@ -40,6 +40,7 @@ description: >-
       <article class="game-card" role="listitem">
         <h3>Word Search</h3>
         <p>Find all the hidden words.</p>
+        <img src="/assets/screenshots/WordSearch-Gameplay.png" />
       </article>
     </div>
   </section>
