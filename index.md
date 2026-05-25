@@ -18,7 +18,7 @@ description: >-
     <h2>Screenshots</h2>
     <div class="game-grid" role="list">
       <article class="game-card" role="listitem">
-        <h3>Welcome Screem</h3>
+        <h3>Welcome Screen</h3>
         <p></p>
         <img src="/assets/screenshots/Welcome-Screen.png" />
       </article>
