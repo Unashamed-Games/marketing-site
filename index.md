@@ -2,7 +2,7 @@
 layout: default
 title: Unashamed Games — Wholesome Games
 description: >-
-  Unashamed Games is a wholesome app with classic games like
+  Unashamed Games is a mobile app with classic games like
   Tic-Tac-Toe, Checkers, Solitaire, Sudoku, and Word Search. Free to play with
   limited respectful ads and an option to remove ads.
 ---
@@ -10,13 +10,18 @@ description: >-
 <div class="landing" aria-label="Unashamed Games app landing page">
   <section class="hero" aria-label="Hero section">
     <p class="hero-kicker">Coming soon to iOS and Android!</p>
-    <h1>Classic games with a wholesome edge.</h1>
-    <p class="hero-lede">Play Tic-Tac-Toe, Checkers, Solitaire, Sudoku, and Word Search in one thoughtfully designed app.</p>
+    <h1>Classic games.</h1>
+    <p class="hero-lede">Play Tic-Tac-Toe, Checkers, Solitaire, Sudoku, and Word Search in one app.</p>
   </section>
 
   <section aria-label="Available Games">
     <h2>Available Games</h2>
     <div class="game-grid" role="list">
+      <article class="game-card" role="listitem">
+        <h3>Welcome Screem</h3>
+        <p></p>
+        <img src="/assets/screenshots/Welcome-Screen.png" />
+      </article>
       <article class="game-card" role="listitem">
         <h3>Tic-Tac-Toe</h3>
         <p>Fast rounds and clean visuals that are easy to pick up anytime.</p>
