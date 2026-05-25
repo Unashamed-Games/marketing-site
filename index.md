@@ -14,8 +14,8 @@ description: >-
     <p class="hero-lede">Play Tic-Tac-Toe, Checkers, Solitaire, Sudoku, and Word Search in one app.</p>
   </section>
 
-  <section aria-label="Available Games">
-    <h2>Available Games</h2>
+  <section aria-label="Screenshots">
+    <h2>Screenshots</h2>
     <div class="game-grid" role="list">
       <article class="game-card" role="listitem">
         <h3>Welcome Screem</h3>
