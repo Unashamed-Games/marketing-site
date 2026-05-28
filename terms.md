@@ -40,6 +40,8 @@ Our app may rely on third-party services, including:
 - Google AdMob (for ads)
 - Apple Game Center (for platform features)
 
+Ads are served in non-personalized mode.
+
 These services operate under their own terms and privacy practices.
 
 ## Privacy

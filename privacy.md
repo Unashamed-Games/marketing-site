@@ -51,7 +51,10 @@ These providers process data according to their own privacy terms and policies.
 
 Our apps may display third-party advertisements.
 
-We request non-personalized ads by default. Where required by law, we provide consent options before personalized advertising is enabled.
+We request non-personalized ads only and do not enable personalized advertising.
+
+Where required by law, we request consent before initializing advertising services.
+If required consent is not granted, ad features may be limited or unavailable.
 
 Advertising partners (such as Google AdMob) may process limited data for ad delivery and measurement, including:
 

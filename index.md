@@ -19,7 +19,7 @@ description: >-
     <div class="game-grid" role="list">
       <article class="game-card" role="listitem">
         <h3>Welcome Screen</h3>
-        <p></p>
+        <p>Jump into any game from a single, clean home screen.</p>
         <img src="/assets/screenshots/Welcome-Screen.png" />
       </article>
       <article class="game-card" role="listitem">
