@@ -178,6 +178,24 @@ p {
   margin-top: 0.35rem;
 }
 
+.app-store-link {
+  display: inline-flex;
+  line-height: 0;
+  border-radius: 8px;
+}
+
+.app-store-link:hover,
+.app-store-link:focus-visible {
+  filter: brightness(1.03);
+}
+
+.app-store-badge {
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 .button {
   display: inline-flex;
   align-items: center;

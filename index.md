@@ -12,6 +12,23 @@ description: >-
     <p class="hero-kicker">Coming soon to iOS and Android!</p>
     <h1>Classic games.</h1>
     <p class="hero-lede">Play Tic-Tac-Toe, Checkers, Solitaire, Sudoku, and Word Search in one app.</p>
+    <div class="hero-actions" aria-label="Download links">
+      <a
+        class="app-store-link"
+        href="https://apps.apple.com/us/app/unashamed-games/id6763943285"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Download Unashamed Games on the App Store"
+      >
+        <img
+          class="app-store-badge"
+          src="/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"
+          alt="Download on the App Store"
+          loading="lazy"
+          decoding="async"
+        >
+      </a>
+    </div>
   </section>
 
   <section aria-label="Screenshots">
