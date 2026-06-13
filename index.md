@@ -9,7 +9,7 @@ description: >-
 
 <div class="landing" aria-label="Unashamed Games app landing page">
   <section class="hero" aria-label="Hero section">
-    <p class="hero-kicker">Coming soon to iOS and Android!</p>
+    <p class="hero-kicker">Coming soon to Android!</p>
     <h1>Classic games.</h1>
     <p class="hero-lede">Play Tic-Tac-Toe, Checkers, Solitaire, Sudoku, and Word Search in one app.</p>
     <div class="hero-actions" aria-label="Download links">
